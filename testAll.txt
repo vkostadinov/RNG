@@ -1,0 +1,764 @@
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
+Partner name:	Hotels.com	Locale:	US
+Partner name:	Hotels.com	Locale:	TR
+Partner name:	Hotels.com	Locale:	UK
+Partner name:	Hotels.com	Locale:	BR
+Partner name:	Hotels.com	Locale:	DE
+Partner name:	Expedia		Locale:	US
+Partner name:	Expedia		Locale:	UK
+Partner name:	Expedia		Locale:	DE
+Partner name:	Expedia		Locale:	MX
+Partner name:	Expedia		Locale:	JP
+Partner name:	Amoma		Locale:	ES
+Partner name:	Amoma		Locale:	UK
+Partner name:	Amoma		Locale:	DE
+Partner name:	Amoma		Locale:	IT
+Partner name:	Amoma		Locale:	US
+Partner name:	Ebookers	Locale:	DE
+Partner name:	Ebookers	Locale:	CH
+Partner name:	Ebookers	Locale:	UK
+Partner name:	Ebookers	Locale:	FI
+Partner name:	Ebookers	Locale:	FR
+Partner name:	Elvoline	Locale:	US
+Partner name:	Elvoline	Locale:	DE
+Partner name:	Elvoline	Locale:	UK
+Partner name:	Elvoline	Locale:	AU
+Partner name:	Elvoline	Locale:	CA
+Partner name:	Agoda		Locale:	UK
+Partner name:	Agoda		Locale:	JP
+Partner name:	Agoda		Locale:	DE
+Partner name:	Agoda		Locale:	TR
+Partner name:	Agoda		Locale:	AU
+Partner name:	Hotels.com	Locale:	US
+Partner name:	Hotels.com	Locale:	TR
+Partner name:	Hotels.com	Locale:	UK
+Partner name:	Hotels.com	Locale:	BR
+Partner name:	Hotels.com	Locale:	DE
+Partner name:	Expedia		Locale:	US
+Partner name:	Expedia		Locale:	UK
+Partner name:	Expedia		Locale:	DE
+Partner name:	Expedia		Locale:	MX
+Partner name:	Expedia		Locale:	JP
+Partner name:	Amoma		Locale:	ES
+Partner name:	Amoma		Locale:	UK
+Partner name:	Amoma		Locale:	DE
+Partner name:	Amoma		Locale:	IT
+Partner name:	Amoma		Locale:	US
+Partner name:	Ebookers	Locale:	DE
+Partner name:	Ebookers	Locale:	CH
+Partner name:	Ebookers	Locale:	UK
+Partner name:	Ebookers	Locale:	FI
+Partner name:	Ebookers	Locale:	FR
+Partner name:	Elvoline	Locale:	US
+Partner name:	Elvoline	Locale:	DE
+Partner name:	Elvoline	Locale:	UK
+Partner name:	Elvoline	Locale:	AU
+Partner name:	Elvoline	Locale:	CA
+Partner name:	Agoda		Locale:	UK
+Partner name:	Agoda		Locale:	JP
+Partner name:	Agoda		Locale:	DE
+Partner name:	Agoda		Locale:	TR
+Partner name:	Agoda		Locale:	AU
+Partner name:	Hotels.com	Locale:	US
+Partner name:	Hotels.com	Locale:	TR
+Partner name:	Hotels.com	Locale:	UK
+Partner name:	Hotels.com	Locale:	BR
+Partner name:	Hotels.com	Locale:	DE
+Partner name:	Expedia		Locale:	US
+Partner name:	Expedia		Locale:	UK
+Partner name:	Expedia		Locale:	DE
+Partner name:	Expedia		Locale:	MX
+Partner name:	Expedia		Locale:	JP
+Partner name:	Amoma		Locale:	ES
+Partner name:	Amoma		Locale:	UK
+Partner name:	Amoma		Locale:	DE
+Partner name:	Amoma		Locale:	IT
+Partner name:	Amoma		Locale:	US
+Partner name:	Ebookers	Locale:	DE
+Partner name:	Ebookers	Locale:	CH
+Partner name:	Ebookers	Locale:	UK
+Partner name:	Ebookers	Locale:	FI
+Partner name:	Ebookers	Locale:	FR
+Partner name:	Elvoline	Locale:	US
+Partner name:	Elvoline	Locale:	DE
+Partner name:	Elvoline	Locale:	UK
+Partner name:	Elvoline	Locale:	AU
+Partner name:	Elvoline	Locale:	CA
+Partner name:	Agoda		Locale:	UK
+Partner name:	Agoda		Locale:	JP
+Partner name:	Agoda		Locale:	DE
+Partner name:	Agoda		Locale:	TR
+Partner name:	Agoda		Locale:	AU
+Partner name:	Hotels.com	Locale:	US
+Partner name:	Hotels.com	Locale:	TR
+Partner name:	Hotels.com	Locale:	UK
+Partner name:	Hotels.com	Locale:	BR
+Partner name:	Hotels.com	Locale:	DE
+Partner name:	Expedia		Locale:	US
+Partner name:	Expedia		Locale:	UK
+Partner name:	Expedia		Locale:	DE
+Partner name:	Expedia		Locale:	MX
+Partner name:	Expedia		Locale:	JP
+Partner name:	Amoma		Locale:	ES
+Partner name:	Amoma		Locale:	UK
+Partner name:	Amoma		Locale:	DE
+Partner name:	Amoma		Locale:	IT
+Partner name:	Amoma		Locale:	US
+Partner name:	Ebookers	Locale:	DE
+Partner name:	Ebookers	Locale:	CH
+Partner name:	Ebookers	Locale:	UK
+Partner name:	Ebookers	Locale:	FI
+Partner name:	Ebookers	Locale:	FR
+Partner name:	Elvoline	Locale:	US
+Partner name:	Elvoline	Locale:	DE
+Partner name:	Elvoline	Locale:	UK
+Partner name:	Elvoline	Locale:	AU
+Partner name:	Elvoline	Locale:	CA
+Partner name:	Agoda		Locale:	UK
+Partner name:	Agoda		Locale:	JP
+Partner name:	Agoda		Locale:	DE
+Partner name:	Agoda		Locale:	TR
+Partner name:	Agoda		Locale:	AU
+Partner name:	Hotels.com	Locale:	US
+Partner name:	Hotels.com	Locale:	TR
+Partner name:	Hotels.com	Locale:	UK
+Partner name:	Hotels.com	Locale:	BR
+Partner name:	Hotels.com	Locale:	DE
+Partner name:	Expedia		Locale:	US
+Partner name:	Expedia		Locale:	UK
+Partner name:	Expedia		Locale:	DE
+Partner name:	Expedia		Locale:	MX
+Partner name:	Expedia		Locale:	JP
+Partner name:	Amoma		Locale:	ES
+Partner name:	Amoma		Locale:	UK
+Partner name:	Amoma		Locale:	DE
+Partner name:	Amoma		Locale:	IT
+Partner name:	Amoma		Locale:	US
+Partner name:	Ebookers	Locale:	DE
+Partner name:	Ebookers	Locale:	CH
+Partner name:	Ebookers	Locale:	UK
+Partner name:	Ebookers	Locale:	FI
+Partner name:	Ebookers	Locale:	FR
+Partner name:	Elvoline	Locale:	US
+Partner name:	Elvoline	Locale:	DE
+Partner name:	Elvoline	Locale:	UK
+Partner name:	Elvoline	Locale:	AU
+Partner name:	Elvoline	Locale:	CA
+Partner name:	Agoda		Locale:	UK
+Partner name:	Agoda		Locale:	JP
+Partner name:	Agoda		Locale:	DE
+Partner name:	Agoda		Locale:	TR
+Partner name:	Agoda		Locale:	AU
+Partner name:	Travelrepublic	Locale:	UK
+Partner name:	Travelrepublic	Locale:	IE
+Partner name:	Travelrepublic	Locale:	PL
+Partner name:	Melia		Locale:	ES
+Partner name:	Melia		Locale:	UK
+Partner name:	Melia		Locale:	DE
+Partner name:	Despegar	Locale:	AR
+Partner name:	Despegar	Locale:	BR
+Partner name:	Despegar	Locale:	MX
+Partner name:	Hotel.de	Locale:	DE
+Partner name:	Hotel.de	Locale:	ES
+Partner name:	Hotel.de	Locale:	IT
+Partner name:	tripadvisor	Locale:	US
+Partner name:	tripadvisor	Locale:	UK
+Partner name:	tripadvisor	Locale:	ES
+Partner name:	Travelocity	Locale:	US
+Partner name:	Travelocity	Locale:	CA
+Partner name:	Travelocity	Locale:	CA
+Partner name:	Roomdi		Locale:	ES
+Partner name:	Roomdi		Locale:	PT
+Partner name:	Roomdi		Locale:	DE
+Partner name:	NH Hotels	Locale:	DE
+Partner name:	NH Hotels	Locale:	ES
+Partner name:	NH Hotels	Locale:	NL
+Partner name:	HRS			Locale:	DE
+Partner name:	HRS			Locale:	IT
+Partner name:	HRS			Locale:	ES
+Partner name:	Cancelon	Locale:	US
+Partner name:	Cancelon	Locale:	UK
+Partner name:	Cancelon	Locale:	DE
+Partner name:	Sembo		Locale:	UK
+Partner name:	Sembo		Locale:	DK
+Partner name:	Sembo		Locale:	SE
+Partner name:	Priceline	Locale:	US
+Partner name:	Priceline	Locale:	CA
+Partner name:	Priceline	Locale:	US
+Partner name:	Ctrip		Locale:	HK
+Partner name:	Ctrip		Locale:	CN
+Partner name:	Ctrip		Locale:	TW
+Partner name:	otel.com	Locale:	US
+Partner name:	otel.com	Locale:	UK
+Partner name:	otel.com	Locale:	DE
+Partner name:	Prestigia	Locale:	UK
+Partner name:	Prestigia	Locale:	US
+Partner name:	Prestigia	Locale:	ES
+Partner name:	Orbitz		Locale:	US
+Partner name:	Orbitz		Locale:	US
+Partner name:	Orbitz		Locale:	US
+Partner name:	Hotwire		Locale:	US
+Partner name:	Hotwire		Locale:	US
+Partner name:	Hotwire		Locale:	US
+Partner name:	Wotif		Locale:	AU
+Partner name:	Wotif		Locale:	NZ
+Partner name:	Wotif		Locale:	AU
+Partner name:	BarceloHoteles	Locale:	ES
+Partner name:	BarceloHoteles	Locale:	MX
+Partner name:	BarceloHoteles	Locale:	US
+Partner name:	Hotelsclick	Locale:	US
+Partner name:	Hotelsclick	Locale:	DE
+Partner name:	Hotelsclick	Locale:	ES
+Partner name:	Scandic Hotels	Locale:	SE
+Partner name:	Scandic Hotels	Locale:	NO
+Partner name:	Scandic Hotels	Locale:	FI
+Partner name:	Hotelopia	Locale:	ES
+Partner name:	Hotelopia	Locale:	UK
+Partner name:	Hotelopia	Locale:	FR
+Partner name:	Destinia	Locale:	ES
+Partner name:	Destinia	Locale:	DE
+Partner name:	Destinia	Locale:	FR
+Partner name:	Hilton		Locale:	UK
+Partner name:	Hilton		Locale:	AU
+Partner name:	Hilton		Locale:	RU
+Partner name:	Accor		Locale:	IT
+Partner name:	Accor		Locale:	ES
+Partner name:	Accor		Locale:	FR
+Partner name:	Hostelworld	Locale:	ES
+Partner name:	Hostelworld	Locale:	IT
+Partner name:	Hostelworld	Locale:	DE
+Partner name:	Cheaptickets	Locale:	US
+Partner name:	Cheaptickets	Locale:	US
+Partner name:	Cheaptickets	Locale:	US
+Partner name:	Priceline_Sub	Locale:	UK
+Partner name:	Priceline_Sub	Locale:	DK
+Partner name:	Priceline_Sub	Locale:	SE
+Partner name:	AirasiaGo	Locale:	MY
+Partner name:	AirasiaGo	Locale:	SG
+Partner name:	AirasiaGo	Locale:	CN
+Partner name:	ZenHotels	Locale:	RU
+Partner name:	ZenHotels	Locale:	DE
+Partner name:	ZenHotels	Locale:	IN
+Partner name:	HotusaGroup	Locale:	ES
+Partner name:	HotusaGroup	Locale:	FR
+Partner name:	HotusaGroup	Locale:	IT
+Partner name:	HotelQuickly	Locale:	MY
+Partner name:	HotelQuickly	Locale:	US
+Partner name:	HotelQuickly	Locale:	DE
+Partner name:	lol.travel		Locale:	IT
+Partner name:	lol.travel		Locale:	UK
+Partner name:	lol.travel		Locale:	NL
+Partner name:	Eurostars		Locale:	ES
+Partner name:	Eurostars		Locale:	IT
+Partner name:	Eurostars		Locale:	FR
+Partner name:	BookGreece		Locale:	GR
+Partner name:	BookGreece		Locale:	UK
+Partner name:	BookGreece		Locale:	RS
+Partner name:	Ostrovok		Locale:	RU
+Partner name:	Ostrovok		Locale:	RU
+Partner name:	Ostrovok		Locale:	RU
+Partner name:	ThomasCook	Locale:	DE
+Partner name:	ThomasCook	Locale:	AT
+Partner name:	ThomasCook	Locale:	AT
+Partner name:	Neckermann	Locale:	DE
+Partner name:	Neckermann	Locale:	DE
+Partner name:	Neckermann	Locale:	DE
+Partner name:	Travelrepublic	Locale:	UK
+Partner name:	Travelrepublic	Locale:	IE
+Partner name:	Travelrepublic	Locale:	PL
+Partner name:	Melia		Locale:	ES
+Partner name:	Melia		Locale:	UK
+Partner name:	Melia		Locale:	DE
+Partner name:	Despegar		Locale:	AR
+Partner name:	Despegar		Locale:	BR
+Partner name:	Despegar		Locale:	MX
+Partner name:	Hotel.de		Locale:	DE
+Partner name:	Hotel.de		Locale:	ES
+Partner name:	Hotel.de		Locale:	IT
+Partner name:	tripadvisor	Locale:	US
+Partner name:	tripadvisor	Locale:	UK
+Partner name:	tripadvisor	Locale:	ES
+Partner name:	Travelocity	Locale:	US
+Partner name:	Travelocity	Locale:	CA
+Partner name:	Travelocity	Locale:	CA
+Partner name:	Roomdi		Locale:	ES
+Partner name:	Roomdi		Locale:	PT
+Partner name:	Roomdi		Locale:	DE
+Partner name:	NH Hotels	Locale:	DE
+Partner name:	NH Hotels	Locale:	ES
+Partner name:	NH Hotels	Locale:	NL
+Partner name:	HRS		Locale:	DE
+Partner name:	HRS		Locale:	IT
+Partner name:	HRS		Locale:	ES
+Partner name:	Cancelon		Locale:	IL
+Partner name:	Cancelon		Locale:	IL
+Partner name:	Cancelon		Locale:	IL
+Partner name:	Sembo		Locale:	UK
+Partner name:	Sembo		Locale:	DK
+Partner name:	Sembo		Locale:	SE
+Partner name:	Priceline		Locale:	US
+Partner name:	Priceline		Locale:	CA
+Partner name:	Priceline		Locale:	US
+Partner name:	Ctrip		Locale:	HK
+Partner name:	Ctrip		Locale:	CN
+Partner name:	Ctrip		Locale:	TW
+Partner name:	otel.com		Locale:	US
+Partner name:	otel.com		Locale:	UK
+Partner name:	otel.com		Locale:	DE
+Partner name:	Prestigia		Locale:	UK
+Partner name:	Prestigia	Locale:	US
+Partner name:	Prestigia	Locale:	ES
+Partner name:	Orbitz	Locale:	US
+Partner name:	Orbitz	Locale:	US
+Partner name:	Orbitz	Locale:	US
+Partner name:	Hotwire	Locale:	US
+Partner name:	Hotwire	Locale:	US
+Partner name:	Hotwire	Locale:	US
+Partner name:	Wotif	Locale:	AU
+Partner name:	Wotif	Locale:	NZ
+Partner name:	Wotif	Locale:	AU
+Partner name:	BarceloHoteles	Locale:	ES
+Partner name:	BarceloHoteles	Locale:	MX
+Partner name:	BarceloHoteles	Locale:	US
+Partner name:	Hotelsclick	Locale:	AR
+Partner name:	Hotelsclick	Locale:	MX
+Partner name:	Hotelsclick	Locale:	AA
+Partner name:	Scandic Hotels	Locale:	SE
+Partner name:	Scandic Hotels	Locale:	NO
+Partner name:	Scandic Hotels	Locale:	FI
+Partner name:	Hotelopia	Locale:	ES
+Partner name:		Locale:	UK
+Partner name:		Locale:	FR
+Partner name:	Destinia	Locale:	ES
+Partner name:		Locale:	DE
+Partner name:		Locale:	FR
+Partner name:	Hilton	Locale:	UK
+Partner name:	Hilton	Locale:	AU
+Partner name:	Hilton	Locale:	RU
+Partner name:	Accor	Locale:	IT
+Partner name:	Accor	Locale:	ES
+Partner name:	Accor	Locale:	FR
+Partner name:	Hostelworld	Locale:	ES
+Partner name:	Hostelworld	Locale:	IT
+Partner name:	Hostelworld	Locale:	DE
+Partner name:	Cheaptickets	Locale:	US
+Partner name:	Cheaptickets	Locale:	US
+Partner name:	Cheaptickets	Locale:	US
+Partner name:	Priceline_Sub	Locale:	UK
+Partner name:	Priceline_Sub	Locale:	DK
+Partner name:	Priceline_Sub	Locale:	SE
+Partner name:	AirasiaGo	Locale:	MY
+Partner name:	AirasiaGo	Locale:	SG
+Partner name:	AirasiaGo	Locale:	CN
+Partner name:	ZenHotels	Locale:	RU
+Partner name:	ZenHotels	Locale:	DE
+Partner name:	ZenHotels	Locale:	IN
+Partner name:	HotusaGroup	Locale:	ES
+Partner name:	HotusaGroup	Locale:	FR
+Partner name:	HotusaGroup	Locale:	IT
+Partner name:	HotelQuickly	Locale:	MY
+Partner name:	HotelQuickly	Locale:	US
+Partner name:	HotelQuickly	Locale:	DE
+Partner name:	lol.travel	Locale:	IT
+Partner name:	lol.travel	Locale:	UK
+Partner name:	lol.travel	Locale:	NL
+Partner name:	Eurostars	Locale:	ES
+Partner name:	Eurostars	Locale:	IT
+Partner name:	Eurostars	Locale:	FR
+Partner name:	BookGreece	Locale:	GR
+Partner name:	BookGreece	Locale:	UK
+Partner name:	BookGreece	Locale:	RS
+Partner name:	Ostrovok	Locale:	RU
+Partner name:	Ostrovok	Locale:	RU
+Partner name:	Ostrovok	Locale:	RU
+Partner name:	ThomasCook	Locale:	DE
+Partner name:	ThomasCook	Locale:	AT
+Partner name:	ThomasCook	Locale:	AT
+Partner name:	Neckermann	Locale:	DE
+Partner name:	Neckermann	Locale:	DE
+Partner name:	Neckermann	Locale:	DE
+Partner name:	IHG			Locale:	UK
+Partner name:	LeadingHotels	Locale:	DE
+Partner name:	NordicChoice	Locale:	SE
+Partner name:	Marriott	Locale:	US
+Partner name:	B & B Hotels	Locale:	DE
+Partner name:	CheapTickets	Locale:	US
+Partner name:	RoomsXXL V3	Locale:	DE
+Partner name:	Iberostar	Locale:	UK
+Partner name:	TravelCharme	Locale:	DE
+Partner name:	Room Mate Hotels	Locale:	FR
+Partner name:	Atropalo_new	Locale:	ES
+Partner name:	hot.es	Locale:	US
+Partner name:	Ramada	Locale:	DE
+Partner name:	AOHostels	Locale:	DE
+Partner name:	Ayre	Locale:	ES
+Partner name:	Servigroup	Locale:	UK
+Partner name:	Jumeirah Hotels	Locale:	RU
+Partner name:	Hotelsnl	Locale:	NL
+Partner name:	prizeotel	Locale:	DE
+Partner name:	H10	Locale:	ES
+Partner name:	LeadingHotels	Locale:	DE
+Partner name:	WIHP	Locale:	US
+Partner name:	adrialin	Locale:	DE
+Partner name:	FastbookingDC	Locale:	JP
+Partner name:	Mirai	Locale:	ES
+Partner name:	cm_simplebooking	Locale:	UK
+Partner name:	cm_webhotelier	Locale:	GR
+Partner name:	Travelclick	Locale:	MX
+Partner name:	Sabre	Locale:	US
+Partner name:	cm_Wubook	Locale:	IT
+Partner name:	EurostarsDirectConnect	Locale:	ES
+Partner name:	Rezidor_RadissonBlu	Locale:	UK
+Partner name:	BookCyprus	Locale:	UK
+Partner name:	Marriott_JW Marriott	Locale:	US
+Partner name:	Ramada_Treff	Locale:	DE
+Partner name:	Pentahotels	Locale:	UK
+Partner name:	CHI_ComfortInn	Locale:	FR
+Partner name:	Nozio	Locale:	IT
+Partner name:	CHI_Quality	Locale:	IT
+Partner name:	H_Garden Inn	Locale:	UK
+Partner name:	Marriott_Autograph Collection	Locale:	US
+Partner name:	Leonardo	Locale:	DE
+Partner name:	Shangri-La Hotels	Locale:	AU
+Partner name:	Belmond Enhanced	Locale:	US
+Partner name:	cm_Verticalbooking	Locale:	IT
+Partner name:	CHI_Clarion	Locale:	FR
+Partner name:	Availpro	Locale:	FR
+Partner name:	Marriott_Towne Place Suites	Locale:	US
+Partner name:	Corus Hotels	Locale:	UK
+Partner name:	FC Regal Hotels	Locale:	HK
+Partner name:	Reservalia	Locale:	C
+Partner name:	H_Conrad	Locale:	UK
+Partner name:	MountVacation	Locale:	IT
+Partner name:	ihg_indigo	Locale:	UK
+Partner name:	cm_Ericsoft	Locale:	IT
+Partner name:	DerbyIndividual	Locale:	UK
+Partner name:	Initalia	Locale:	IT
+Partner name:	Marriott_AC Hotels	Locale:	US
+Partner name:	Zenrooms	Locale:	ID
+Partner name:	Marriott_Delta Hotels	Locale:	CA
+Partner name:	H_Waldorf Astoria	Locale:	UK
+Partner name:	ihg_candlewood	Locale:	US
+Partner name:	cm_capcorn	Locale:	AT
+Partner name:	Marriott_Marriott Vacation Club	Locale:	US
+Partner name:	Design Hotels	Locale:	UK
+Partner name:	Rezidor_ParkInn	Locale:	UK
+Partner name:	25Hours	Locale:	DE
+Partner name:	VerticalBooking	Locale:	IT
+Partner name:	ihg_StayBridge	Locale:	US
+Partner name:	cm_Beds24	Locale:	UK
+Partner name:	Gardapass	Locale:	DE
+Partner name:	Marriott_Protea Hotels	Locale:	ZA
+Partner name:	cm_Neobookings	Locale:	ES
+Partner name:	LifeClass Hotels	Locale:	SI
+Partner name:	TiCaTi	Locale:	FR
+Partner name:	Playasol	Locale:	IT
+Partner name:	Marriott_Gaylord Hotels	Locale:	US
+Partner name:	Marriott_Executive Apartments	Locale:	PL
+Partner name:	ole Hotels	Locale:	ES
+Partner name:	JenHotels	Locale:	MY
+Partner name:	Onyx Hotels	Locale:	TH
+Partner name:	HotelgrouperV2	Locale:	UK
+Partner name:	cm_Ermeshotels	Locale:	IT
+Partner name:	MmOne	Locale:	DE
+Partner name:	Marriott_MOXY	Locale:	DE
+Partner name:	cm_mirai	Locale:	ES
+Partner name:	cm_phobs	Locale:	DE
+Partner name:	cm_Kosmosol	Locale:	IT
+Partner name:	Only you	Locale:	ES
+Partner name:	otel.com	Locale:	CN
+Partner name:	Traders	Locale:	MY
+Partner name:	ParkRoyalHotels	Locale:	AU
+Partner name:	Kerry	Locale:	RU
+Partner name:	cm_hotelnetsolutions	Locale:	DE
+Partner name:	Bastion Hotels	Locale:	NL
+Partner name:	GoNorthCyprus	Locale:	UK
+Partner name:	Olimar	Locale:	DE
+Partner name:	CHD_Comfort_Inn	Locale:	US
+Partner name:	SWNA_LColl	Locale:	US
+Partner name:	CHC_Comfort_Inn	Locale:	CA
+Partner name:	JA Hotels	Locale:	UK
+Partner name:	Hotelius	Locale:	ES
+Partner name:	myTour	Locale:	VN
+Partner name:	Ticket.se	Locale:	SE
+Partner name:	dnata	Locale:	AE
+Partner name:	VHG_Americas Best Value Inn	Locale:	US
+Partner name:	HotelSpecials Scandinavia	Locale:	SE
+Partner name:	JollyTur	Locale:	TR
+Partner name:	CHD_Econo_Lodge	Locale:	US
+Partner name:	Bentour	Locale:	DE
+Partner name:	FRHI_Raffles	Locale:	UK
+Partner name:	CHI_Ascend	Locale:	FR
+Partner name:	Melia_CN	Locale:	CN
+Partner name:	Yatra.com	Locale:	IN
+Partner name:	cm_resavio	Locale:	DE
+Partner name:	CHI_ComfortSuite	Locale:	FR
+Partner name:	onetwotrip	Locale:	RU
+Partner name:	Etstur	Locale:	TR
+Partner name:	Skiplanet	Locale:	FR
+Partner name:	Vacatia.com	Locale:	US
+Partner name:	Stayforlong	Locale:	ES
+Partner name:	bookIt	Locale:	US
+Partner name:	SWNA_Aloft	Locale:	US
+Partner name:	TravelBook.ph	Locale:	PH
+Partner name:	Country Inn & Suites	Locale:	US
+Partner name:	La Quinta Enhanced	Locale:	US
+Partner name:	OzonTravel	Locale:	RU
+Partner name:	SWNA_St Regis	Locale:	US
+Partner name:	TabletHotels	Locale:	US
+Partner name:	Tatilsepeti_Int	Locale:	TR
+Partner name:	ViajarV2	Locale:	ES
+Partner name:	Galahotels	Locale:	CH
+Partner name:	cm_availpro	Locale:	FR
+Partner name:	Splitty Travel	Locale:	IE
+Partner name:	tourico	Locale:	US
+Partner name:	Netaffinity	Locale:	IE
+Partner name:	Bed&Snow	Locale:	ES
+Partner name:	BBHotelsFrance	Locale:	FR
+Partner name:	OstrovokV2	Locale:	RU
+Partner name:	OMNI Hotels	Locale:	US
+Partner name:	IHG_Hualuxe	Locale:	CN
+Partner name:	VNTrip	Locale:	VN
+Partner name:	Tui Peakwork	Locale:	DE
+Partner name:	HotelUrbano	Locale:	BR
+Partner name:	lastminute.com.au	Locale:	AU
+Partner name:	cm_Dirs21	Locale:	DE
+Partner name:	VHG_Canadas Best Value Inn	Locale:	CA
+Partner name:	H_Grand_US	Locale:	US
+Partner name:	17U	Locale:	CN
+Partner name:	cm_mmone	Locale:	IT
+Partner name:	profitroom	Locale:	PL
+Partner name:	Nusatrip	Locale:	ID
+Partner name:	TouricoLastminuteTravel	Locale:	FR
+Partner name:	JTB	Locale:	JP
+Partner name:	SWNA_Sheraton	Locale:	US
+Partner name:	Wing On Travel	Locale:	HK
+Partner name:	CHC_Ascend	Locale:	CA
+Partner name:	H_Embassy_US	Locale:	US
+Partner name:	NeoUK_Montcalm	Locale:	UK
+Partner name:	H_Curio_US	Locale:	US
+Partner name:	Jovago	Locale:	ZA
+Partner name:	bestWestern_DE	Locale:	DE
+Partner name:	mr&mrssmith	Locale:	UK
+Partner name:	SWNA_Westin	Locale:	US
+Partner name:	CHC_Quality_Inn	Locale:	CA
+Partner name:	SWNA_Element	Locale:	US
+Partner name:	Citadines	Locale:	FR
+Partner name:	eLong Domestic	Locale:	CN
+Partner name:	cheapticketsv2	Locale:	US
+Partner name:	cm_Ezee Technosys	Locale:	US
+Partner name:	pegipegi	Locale:	ID
+Partner name:	Tatilsepeti_Tr	Locale:	TR
+Partner name:	Pegasus	Locale:	DE
+Partner name:	Visit Barbados	Locale:	UK
+Partner name:	SWNA_FourPoints	Locale:	US
+Partner name:	CHC_Econo_Lodge	Locale:	CA
+Partner name:	priceline_sub	Locale:	UK
+Partner name:	superbreak	Locale:	UK
+Partner name:	Radisson	Locale:	US
+Partner name:	qmango	Locale:	CN
+Partner name:	cm_vioma	Locale:	DE
+Partner name:	CHC_Mainstay	Locale:	CA
+Partner name:	AirasiaGo	Locale:	MY
+Partner name:	H_Waldorf_US	Locale:	US
+Partner name:	tatil.com	Locale:	TR
+Partner name:	h_curio	Locale:	US
+Partner name:	MuchoViaje	Locale:	ES
+Partner name:	cm_hotel.bb	Locale:	IT
+Partner name:	CHC_ComfortSuite	Locale:	CA
+Partner name:	cm_bebetterhotel	Locale:	AR
+Partner name:	Jalan	Locale:	JP
+Partner name:	Weekendesk	Locale:	ES
+Partner name:	Reservento	Locale:	DE
+Partner name:	Elumbus	Locale:	DE
+Partner name:	SWNA_LeMeridien	Locale:	US
+Partner name:	GetaRoom	Locale:	US
+Partner name:	Ena	Locale:	JP
+Partner name:	CHC_Suburban	Locale:	CA
+Partner name:	Appleworld	Locale:	JP
+Partner name:	CHD_Quality_Inn	Locale:	US
+Partner name:	bestWestern_FR	Locale:	FR
+Partner name:	ThomasCookBEPW	Locale:	FR
+Partner name:	Lastminute International	Locale:	UK
+Partner name:	AmericInn	Locale:	US
+Partner name:	Dirs21	Locale:	DE
+Partner name:	CHD_Ascend	Locale:	US
+Partner name:	Dorint	Locale:	DE
+Partner name:	cm_RoomCloud	Locale:	FR
+Partner name:	cm_Evols	Locale:	IT
+Partner name:	H_Hampton Inn_US	Locale:	US
+Partner name:	Rurubu	Locale:	JP
+Partner name:	Dolomiti.org	Locale:	IT
+Partner name:	neckermann_be	Locale:	BE
+Partner name:	oyo	Locale:	IN
+Partner name:	Reservit	Locale:	FR
+Partner name:	laterooms	Locale:	UK
+Partner name:	Hotels4Everyone	Locale:	US
+Partner name:	JTB Hawaii	Locale:	JP
+Partner name:	CHC_Clarion	Locale:	CA
+Partner name:	101hotels.ru	Locale:	RU
+Partner name:	Groupon	Locale:	US
+Partner name:	cm_Easyconsulting	Locale:	IT
+Partner name:	ThomasCookBEPW	Locale:	FR
+Partner name:	SWNA_W Hotels	Locale:	US
+Partner name:	loveholidays.com	Locale:	UK
+Partner name:	CHD_Rodeway_Inn	Locale:	US
+Partner name:	H_Homewood_US	Locale:	US
+Partner name:	HotelTonight	Locale:	US
+Partner name:	Vrijuit	Locale:	NL
+Partner name:	GreenTree	Locale:	CN
+Partner name:	Extended Stay	Locale:	US
+Partner name:	Mondial	Locale:	AT
+Partner name:	Reembolsing	Locale:	ES
+Partner name:	BestWestern_ROW	Locale:	E
+Partner name:	IHG_Ana	Locale:	JP
+Partner name:	skooshV2	Locale:	UK
+Partner name:	NeoUK_Shaftesbury	Locale:	UK
+Partner name:	Qantas	Locale:	AU
+Partner name:	CHD_Mainstay	Locale:	US
+Partner name:	CHD_Cambria	Locale:	US
+Partner name:	Marriott_Conference Center	Locale:	US
+Partner name:	travelbag	Locale:	UK
+Partner name:	Roomer	Locale:	UK
+Partner name:	Tempus	Locale:	CN
+Partner name:	BBHotelsItaly	Locale:	IT
+Partner name:	CHC_Sleep_Inn	Locale:	CA
+Partner name:	cm_base7booking	Locale:	DE
+Partner name:	snoozee_sales	Locale:	DE
+Partner name:	Airtours Peakwork V2	Locale:	DE
+Partner name:	HotelSpecials	Locale:	DE
+Partner name:	Netflights	Locale:	UK
+Partner name:	WelcomeHotels	Locale:	DE
+Partner name:	RumboV2	Locale:	IT
+Partner name:	cm_Seekda	Locale:	DE
+Partner name:	Ameropa Peakwork	Locale:	DE
+Partner name:	CHD_Clarion	Locale:	US
+Partner name:	MagicCostaBlanca	Locale:	ES
+Partner name:	H_Doubletree_US	Locale:	US
+Partner name:	Falkensteiner	Locale:	AT
+Partner name:	FC rhhoteles	Locale:	UK
+Partner name:	Cleartrip	Locale:	IN
+Partner name:	TOP International	Locale:	DE
+Partner name:	Dadeda	Locale:	PT
+Partner name:	morgansHotelGroup	Locale:	UK
+Partner name:	H_Home2_US	Locale:	US
+Partner name:	bestWestern_IT	Locale:	IT
+Partner name:	VHG_Lexington Inns	Locale:	US
+Partner name:	H_Garden Inn_US	Locale:	US
+Partner name:	Mexico Destinos	Locale:	MX
+Partner name:	mister aladin	Locale:	ID
+Partner name:	Doyle Collection	Locale:	IE
+Partner name:	ThomasCook	Locale:	DE
+Partner name:	CHD_ComfortSuite	Locale:	US
+Partner name:	NeoUK_Parkgrand	Locale:	UK
+Partner name:	Eshet	Locale:	IL
+Partner name:	Tui Peakwork AT	Locale:	AT
+Partner name:	H_Conrad_US	Locale:	US
+Partner name:	CHD_Sleep_Inn	Locale:	US
+Partner name:	SnowTrex	Locale:	DE
+Partner name:	Ikyu	Locale:	JP
+Partner name:	Dreambooking	Locale:	DK
+Partner name:	FRHI_Fairmont	Locale:	US
+Partner name:	Tui LTE	Locale:	ES
+Partner name:	Alltours Peakwork	Locale:	DE
+Partner name:	ARCOTEL	Locale:	DE
+Partner name:	Geostar	Locale:	PT
+Partner name:	ViajesElCorteIngles_v2	Locale:	FR
+Partner name:	Cityzenbooking	Locale:	FR
+Partner name:	Ritz Carlton & Ritz Carlton Edition (Marriott)	Locale:	US
+Partner name:	Neckermann	Locale:	DE
+Partner name:	neckermann_nl	Locale:	NL
+Partner name:	Keytel	Locale:	ES
+Partner name:	PH Hotels	Locale:	UK
+Partner name:	HolidayMe	Locale:	AA
+Partner name:	h_canopy	Locale:	UK
+Partner name:	Tatilbudur	Locale:	TR
+Partner name:	FRHI_Swissotel	Locale:	US
+Partner name:	DerbyIBC	Locale:	US
+Partner name:	Ltur Peakwork	Locale:	DE
+Partner name:	eholiday.pl	Locale:	PL
+Partner name:	MontigoV2	Locale:	DE
+Partner name:	Treebo Hotels	Locale:	IN
+Partner name:	CHD_Suburban	Locale:	US
+Partner name:	VoyagesSNCFv2	Locale:	FR
+Partner name:	cm_hotel-net	Locale:	IT
+Partner name:	Rakuten	Locale:	JP

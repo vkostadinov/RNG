@@ -1,0 +1,8 @@
+Partner name:	Booking.com	Locale:	UK
+Partner name:	Booking.com	Locale:	US
+Partner name:	Booking.com	Locale:	DE
+Partner name:	Booking.com	Locale:	BR
+Partner name:	Booking.com	Locale:	IT
+Partner name:	Booking.com	Locale:	GR
+Partner name:	Booking.com	Locale:	ES
+Partner name:	Booking.com	Locale:	RU
